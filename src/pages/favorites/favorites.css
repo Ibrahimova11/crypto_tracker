@@ -1,0 +1,56 @@
+.table{
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-left: auto;
+    margin-right: auto;  
+    background-color: white; 
+    box-shadow: 22px 22px 4px 3px #03485f;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+body{
+    background-image: url(https://dadacrypto.netlify.app/images/backgroundImage.jpg);
+}
+img{
+    width: 70px;
+}
+
+
+
+.btn_1{
+    width: 80px;
+    height: 40px;   
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: #1fb4e6;
+    cursor: pointer;
+    color:white;
+    border: 1px solid red;
+}
+
+
+h3{
+    color:#1fb4e6;
+}
+.btn_2{
+    background-color: rgb(79, 104, 245); 
+    width: 80px;
+    height: 40px; 
+    border: 3px solid rgb(0, 238, 255);
+    color: white;
+    cursor: pointer;
+}
+
+.btn{
+    width: 80px; 
+    height: 40px;
+    background-color: #03485f;
+    color:white;
+    border-radius: 30px;
+    border:4px solid  #1fb4e6;
+    cursor:pointer;
+}
