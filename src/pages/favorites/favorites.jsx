@@ -12,7 +12,7 @@ const Favorites = () => {
   return (
     <div>
       <Navbar />
-       <h3>Delete all products:</h3>
+       <h3 className="Delete">Delete all products:</h3>
        <button className="btn" onClick={() => dispatch(clearFavorites())}>Clear</button>
       <section className='table'>
 <table>
