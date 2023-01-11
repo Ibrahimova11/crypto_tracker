@@ -24,8 +24,6 @@ img{
 .btn_1{
     width: 80px;
     height: 40px;   
-    margin-left: 100px;
-    margin-top: 20px;
     background-color: #1fb4e6;
     cursor: pointer;
     color:white;
@@ -54,4 +52,7 @@ img{
     border-radius: 30px;
     border:4px solid  #1fb4e6;
     cursor:pointer;
+}
+.class td {
+    text-align: center;
 }
